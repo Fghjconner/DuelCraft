@@ -1,0 +1,4 @@
+name: DuelCraft
+main: fghjconner.DuelCraft.DuelCraft
+version: 1.0
+commands:
